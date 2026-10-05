@@ -1,0 +1,6 @@
+{
+  "name": "Mines & Crusher Operations & Reporting System",
+  "description": "Comprehensive data entry, CRUD tracking, Google Drive integration, search, monthly and yearly summaries, and print reporting for Mines and Crusher Operations (Report 2026-027 Pushpendra).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
